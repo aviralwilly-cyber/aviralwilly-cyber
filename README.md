@@ -1,4 +1,5 @@
-# Hi, I'm Aviral Abel Willy 👋
+# Hi, I'm Aviral Abel Willy 👋 <img width="128" height="128" alt="pointer" src="https://github.com/user-attachments/assets/997064c5-8ba6-4991-b198-570fe37cb6e0" />
+
 
 Full-Stack / Backend Developer based in Toronto, ON — 3+ years building enterprise applications with Java, Spring Boot, and modern JavaScript frameworks.
 
